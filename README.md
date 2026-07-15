@@ -9,7 +9,7 @@ The project includes:
 - Data loading and preprocessing using Python
 - Exploratory Data Analysis (EDA)
 - Data cleaning and transformation
-- SQL analysis using PostgreSQL/MySQL/SQL Server
+- SQL analysis using MySQL
 - Interactive Power BI dashboard
 - Business report generation
 - Project presentation created using Gamma
